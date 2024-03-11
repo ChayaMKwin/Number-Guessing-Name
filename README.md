@@ -6,7 +6,3 @@ This project is a simple command-line Number Guessing Game where players attempt
 ## Built With
 - Bash
 - PostgreSQL
-
-### Prerequisites
-- PostgreSQL
-- Bash environment (Linux, macOS, or Windows Subsystem for Linux)
